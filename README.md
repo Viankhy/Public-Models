@@ -1,1 +1,2 @@
-Welcome to my GitHub, here you will be able to find all my Blockbench & CPM Models.
+# Welcome to my Public Models repository! 👋🏻
+Here you will be able to find my... Public Models, duh! Anyways, have fun exploring, and learning more about CPM/Blockbench modelling. I'm not a expert, but I think that already help people 😼
